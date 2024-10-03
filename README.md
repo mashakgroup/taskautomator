@@ -18,7 +18,13 @@ python data_arranger.py
 
 
 Example Usage:
-If you select Option 1, it will ask for a folder path and organize the files by type.
-For Option 2, provide the path to a text file, and the script will sort the lines alphabetically or numerically.
-For Option 3, give the path to a CSV file, specify the column to sort by, and it will sort the rows based on the values in that column.
+If you select:
+
+ Option 1, it will ask for a folder path and organize the files by type.
+
+ Option 2, provide the path to a text file, and the script will sort the lines alphabetically or numerically.
+
+ Option 3, give the path to a CSV file, specify the column to sort by, and it will sort the rows based on the values in that column.
+
+
 This script should be useful for automating data organization and sorting tasks in various scenarios!
